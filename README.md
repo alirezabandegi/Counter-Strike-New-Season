@@ -1,2 +1,3 @@
 # Counter-Strike-New-Season
-I have tried to make a first person shooter for the first game I make with Unity. This game is made in such a way that you can connect to it and play with other people's computers with Len network. This game is made with counter-strike models and is made with the idea of counter-strike. This has been a student project at school and I have used this to better teach and teach Unity. "This project is the first game I made with Unity and I hope to make better games in the future."
+I have tried to make a first person shooter for the first game I make with Unity. This game is made in such a way that you can connect to it and play with other people's computers with Len network. This game is made with counter-strike models and is made with the idea of counter-strike. 
+"This project is the first game I made with Unity and I hope to make better games in the future."
